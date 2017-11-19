@@ -1,7 +1,7 @@
-# node-RESTful-api
-node-mongodb restful api with user CRUD example.
+# Build a RESTful API Using Node, Express and MongoDB 
+node-express-mongodb restful api with user CRUD example.
 
-we will learn how to create a RESTful API using Node.js.
+we will learn how to create a RESTful API using Node.
 
 ### Tools:
 
