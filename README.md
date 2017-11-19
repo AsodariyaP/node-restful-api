@@ -1,14 +1,14 @@
-# node-restful-api
-node-mongodb restful api with users CRUD example.
+# node-RESTful-api
+node-mongodb restful api with user CRUD example.
 
 we will learn how to create a RESTful API using Node.js.
 
-Tools:
+### Tools:
 
-Node.js
-MongoDB
-Text editor (Visual Studio Code)
-Postman
+* Node.js
+* MongoDB
+* Text editor (Visual Studio Code)
+* Postman
 
 ### Getting started
 For the purpose of this tutorial, I’ll work you through creating a RESTful API. To achieve this, we will create a RESTful users API (endpoints that will create a user, get or read list of all users, read a particular user by user id, delete a user, and update a user).
