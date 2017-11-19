@@ -1,2 +1,2 @@
 # node-restful-api
-node-mongodb restful api with users list example
+node-mongodb restful api with users CRUD example
