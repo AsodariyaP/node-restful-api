@@ -254,12 +254,16 @@ Now that everything is now connected, let’s test each of the routes and the re
 
 <strong>Open your postman and type: </strong>
 
-1. http://localhost:4000/tasks in the enter request URL section and press enter.
+1. http://localhost:4000/users in the enter request URL section and press enter.
+   
    On enter, you should see “[]” because there is nothing in the database yet.
 
 2. On the same address, change the method to POST, click body and select “x-www-form-urlencoded”.
+
 Then, enter name as the key and the corresponding task name as value.
+
 After this, click on send button.
+
 This should give you a response 200 ok
 
 Awesome! :+1:
