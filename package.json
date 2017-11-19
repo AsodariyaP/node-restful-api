@@ -1,0 +1,23 @@
+{
+  "name": "user-api",
+  "version": "1.0.0",
+  "description": "User API Demo using node with mongodb.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "Node",
+    "Restful Api"
+  ],
+  "author": "Pradip Asodariya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
