@@ -260,10 +260,10 @@ Now that everything is now connected, let’s test each of the routes and the re
 
 2. On the same address, change the method to POST, click body and select “x-www-form-urlencoded”.
 
-Then, enter name as the key and the corresponding task name as value.
+Then, enter model properties as the key and the corresponding user name, surname, age and as well as value.
 
 After this, click on send button.
 
 This should give you a response 200 ok
 
-Awesome! :+1:
+Awesome ! :+1:
